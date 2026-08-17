@@ -54,7 +54,7 @@
 🔗 [React-GeoExplorer App](https://react-geo-explorer-app.vercel.app/)
 
 ---
-
+<br/>
 ## 🏗️ Application Flow
 
 ```text
