@@ -49,13 +49,13 @@
 - CSS3
 
 ---
-<br/>
+
 
 ## 🌍 Live Demo
 🔗 [React-GeoExplorer App](https://react-geo-explorer-app.vercel.app/)
 
 ---
-<br/>
+<br/> <br/>
 ## 🏗️ Application Flow
 
 ```text
